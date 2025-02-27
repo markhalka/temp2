@@ -1,0 +1,1 @@
+Arithmetic overflow is hidden behind uninstrumented operations, thwarting coverage-driven mutations.

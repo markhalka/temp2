@@ -1,0 +1,1 @@
+A hidden checksum check provides no incremental coverage signals, blocking AFL++ exploration.

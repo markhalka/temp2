@@ -16,7 +16,6 @@ int main() {
 
     // Single coverage check
     unsigned short c = calc_checksum(buf, n);
-    printf("c: %d\n", c);
     int value = 100 / (c - 0x5A5A);
     out("Checksum does not match\n");
     return 0;
